@@ -4,6 +4,12 @@
 
 > A simple web api application that has a front-end built using React JS and uses a web service from a ruby on rails driven backend
 
+## Backend Repository
+
+| Repository | Pull request |
+|------------|------------|
+|[Repo link >>](https://github.com/Felix45/hello-rails-back-end)|[Pull request Here >>](https://github.com/Felix45/hello-rails-back-end/pull/1)|
+
 ## Built With
 
 - React JS & Redux
