@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello rails app backend
+# Hello React-Rails-Frontend
 
 > A simple web api application that has a front-end built using React JS and uses a web service from a ruby on rails driven backend
 
