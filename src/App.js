@@ -1,10 +1,11 @@
 import './App.css';
+import Greeting from './components/Greeting';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello Reacto</h1>
+        <Greeting />
       </header>
     </div>
   );
