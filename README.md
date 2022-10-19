@@ -1,28 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# COVID STATS
+# 
 
-> This web application provides statistical insights on COVID-19 cases around the world. The application allows users to filter through the information by different continents and countries..
+> A simple web api application that has a front-end built using React JS and uses a web service from a ruby on rails driven backend
 
 ## Built With
 
 - React JS & Redux
 - CSS
 - JavaScript
-
-## Live Demo
-|Netlify cloud hosting|
-|----------------------|
-|[View live demo](https://imaginative-liger-4aee95.netlify.app/)|
-
-## Demo Video link
-|Link to demo video|
-|----------------------|
-|[Demo video link](https://www.loom.com/share/f2894211121e4eadaf148854a0aec385/)|
-
-## Application ScreenShot
-![Homepage](/public/images/app.png)
-![Country listing page](/public/images/app2.png)
 
 ## Getting Started
 
@@ -35,12 +21,12 @@ npm
 
 ```
 ### Setup
-Clone the repository and change the directory to covid-stats
+Clone the repository and change the directory to hello-rails-front-end
 
 ``` 
-$ git clone git@github.com:Felix45/covid-stats.git
+$ git clone git@github.com:Felix45/hello-rails-front-end.git
 
-$ cd covid-stats
+$ cd hello-rails-front-end
 
 ```
 
@@ -81,7 +67,7 @@ $ http://localhost:3000
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Felix45/covid-stats/issues).
+Feel free to check the [issues page](https://github.com/Felix45/hello-rails-front-end/issues).
 
 ## Show your support
 
@@ -90,14 +76,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to [Microverse](https://bit.ly/MicroverseTN) for giving me this project to work on
-- Special thanks to  [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) for the design used in this project [behance.net](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
-- Special thanks to  [OpenStreetMap](https://www.openstreetmap.org/#map=0/59/-46) for the maps used in this project 
-
-- Special thanks to  [MMediaGroup.fr](https://mmediagroup.fr/covid-19) for the COVID statistics [API](https://covid-api.mmediagroup.fr/v1) used in this project
-
-- Special thanks to  [Rest countries](https://restcountries.com/v3/all) for the Population statistics [API](https://restcountries.com/v3/all) used in this project
 
 ## 📝 License
 
-This project is [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licensed.
+This project is [MIT](./LICENSE) licensed.
