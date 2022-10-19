@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COVID STATS
 
-## Available Scripts
+> This web application provides statistical insights on COVID-19 cases around the world. The application allows users to filter through the information by different continents and countries..
 
-In the project directory, you can run:
+## Built With
 
-### `npm start`
+- React JS & Redux
+- CSS
+- JavaScript
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo
+|Netlify cloud hosting|
+|----------------------|
+|[View live demo](https://imaginative-liger-4aee95.netlify.app/)|
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo Video link
+|Link to demo video|
+|----------------------|
+|[Demo video link](https://www.loom.com/share/f2894211121e4eadaf148854a0aec385/)|
 
-### `npm test`
+## Application ScreenShot
+![Homepage](/public/images/app.png)
+![Country listing page](/public/images/app2.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+To get a local copy up and running follow these simple example steps.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
+```
+node js
+npm
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+### Setup
+Clone the repository and change the directory to covid-stats
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+``` 
+$ git clone git@github.com:Felix45/covid-stats.git
 
-### `npm run eject`
+$ cd covid-stats
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Install
+Install all project dependencies by running the command below
+ 
+``` 
+$ npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Tests
+To run all tests type the command below
+ 
+``` 
+$ npm test
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Usage
+Start the http application server
+``` 
+$ npm start
+```
 
-## Learn More
+### Visit Application
+```
+$ http://localhost:3000
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Authors
 
-### Code Splitting
+| 👤 Name | Github | Twitter | LinkedIn |
+|------|--------|---------|----------|
+|Felix Ouma|[@Felix45](https://github.com/Felix45)|[@Felix_Atonoh](https://twitter.com/Felix_Atonoh)|[LinkedIn](https://www.linkedin.com/in/felix-ouma-639766b0/)|
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## 🤝 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions, issues, and feature requests are welcome!
 
-### Making a Progressive Web App
+Feel free to check the [issues page](https://github.com/Felix45/covid-stats/issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Show your support
 
-### Advanced Configuration
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Acknowledgments
 
-### Deployment
+- Hat tip to [Microverse](https://bit.ly/MicroverseTN) for giving me this project to work on
+- Special thanks to  [Nelson Sakwa](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) for the design used in this project [behance.net](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Special thanks to  [OpenStreetMap](https://www.openstreetmap.org/#map=0/59/-46) for the maps used in this project 
 
-### `npm run build` fails to minify
+- Special thanks to  [MMediaGroup.fr](https://mmediagroup.fr/covid-19) for the COVID statistics [API](https://covid-api.mmediagroup.fr/v1) used in this project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Special thanks to  [Rest countries](https://restcountries.com/v3/all) for the Population statistics [API](https://restcountries.com/v3/all) used in this project
+
+## 📝 License
+
+This project is [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licensed.
